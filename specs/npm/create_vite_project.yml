@@ -3,7 +3,7 @@ name: Create Vite Project
 command: |-
     npm create vite@latest
 tags:
-  - vite
+  - npm
 description: Create any type of vite related project.
 arguments: []
 source_url: "https://vitejs.dev/guide/"
